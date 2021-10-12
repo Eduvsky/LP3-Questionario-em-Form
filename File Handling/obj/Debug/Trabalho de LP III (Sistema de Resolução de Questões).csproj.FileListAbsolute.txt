@@ -1,0 +1,12 @@
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\bin\Debug\File Handling.exe.config
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\bin\Debug\File Handling.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\bin\Debug\File Handling.pdb
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\Trabalho de LP III (Sistema de Resolução de Questões).csprojAssemblyReference.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\File_Handling.Index.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\File_Handling.LoginInterface.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\File_Handling.Questões.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\File_Handling.Properties.Resources.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\Trabalho de LP III (Sistema de Resolução de Questões).csproj.GenerateResource.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\Trabalho de LP III (Sistema de Resolução de Questões).csproj.CoreCompileInputs.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\File Handling.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\File Handling\File Handling\obj\Debug\File Handling.pdb
